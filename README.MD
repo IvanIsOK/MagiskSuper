@@ -42,3 +42,5 @@ topjohnwu — creator and maintainer of Magisk
 All contributors to the original project
 Anyone experimenting with or contributing to this fork
 For all problems please report them to me.
+
+ Sorry if the README.MD is confusing i couldnt seperate the lines.
