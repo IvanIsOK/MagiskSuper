@@ -42,7 +42,7 @@
     <string name="install_inactive_slot_msg">Vaš će se uređaj prisiliti pokrenuti s trenutnog neaktivnog mjesta nakon ponovnog pokretanja!\nKoristite tu opciju samo nakon što je OTA dovršena.\nContinue?</string>
     <string name="setup_title">Dodatno postavljanje</string>
     <string name="select_patch_file">Odaberite patch datoteku</string>
-    <string name="patch_file_msg">Odaberite raw (*.img) ili ODIN tarfile (*.tar)</string>
+    <string name="patch_file_msg">Odaberite raw (*.img) ili ODIN tar datoteku (*.tar)</string>
     <string name="reboot_delay_toast">Ponovno pokretanje za 5 sekundi…</string>
     <string name="flash_screen_title">Instalacija</string>
 
@@ -168,7 +168,7 @@
     <string name="progress_channel">Obavijesti o napretku</string>
     <string name="download_complete">Preuzimanje završeno</string>
     <string name="download_file_error">Pogreška pri preuzimanju datoteke</string>
-    <string name="magisk_update_title">Dostupno je Magisk ažuriranje!</string>
+    <string name="magisk_update_title">Dostupna je nova verzija Magiska!</string>
 
     <!--Toasts, Dialogs-->
     <string name="yes">Da</string>
